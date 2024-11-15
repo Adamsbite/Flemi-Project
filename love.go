@@ -1,3 +1,3 @@
 import "github.com"
 
-last 
+last love 
